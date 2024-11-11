@@ -1,0 +1,29 @@
+ROS requirements:
+
+1. sudo apt install mercurial
+
+2. sudo apt-get install ros-noetic-gazebo-ros ros-noetic-eigen-conversions ros-noetic-object-recognition-msgs ros-noetic-roslint
+
+Note: before you install these, just be sure inside the catkin_ws.
+After that, move into src folder through terminal and clone these GitHub:
+
+git clone https://github.com/JenniferBuehler/general-message-pkgs.git
+git clone https://github.com/JenniferBuehler/gazebo-pkgs.git
+
+This "gazebo-pkgs" github file has melodic version, suppose
+if you need noetic/humble any other version check this github page (https://github.com/JenniferBuehler/gazebo-pkgs)
+and switch to respective version from top corner and download it. keep the downloaded file inside the catkin_ws/src/ folder.
+
+Now navigate to catkin_ws through terminal and proceed this command:
+3. catkin_make
+
+----------------------------------------------------------------------------------------------------------------------------------
+Python requirements:
+
+pip install numpy
+pip install opencv-python
+pip install imutils
+pip install pandas
+pip install Kalman
+pip install ffmpeg-python
+pip install ultralytics

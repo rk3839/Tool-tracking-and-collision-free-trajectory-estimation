@@ -1,0 +1,5 @@
+For PSM and ECM:
+rostopic pub /arm_controller/command trajectory_msgs/JointTrajectory '{joint_names: ["psm_l1_joint","psm_l2_joint","psm_l3_joint","psm_l4_joint","psm_l5_joint","psm_l6_joint","psm_l7_joint","psm_l8_joint","psm_l9_joint","psm_l10_joint","psm_l11_joint","psm_l12_joint","ecm_l1_joint","ecm_l2_joint","ecm_l3_joint","ecm_l4_joint","ecm_l5_joint","ecm_l6_joint","ecm_l7_joint","ecm_l8_joint","ecm_l9_joint"],points:[{positions: [0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-0.01,-0.9,-1.3,0.0,0.0,0.0,0.0,-0.2,0.16,0.08,0.0,0.0],time_from_start:[1,0]}]}' -1
+
+For Forcep:
+rostopic pub /hand_controller/command trajectory_msgs/JointTrajectory '{joint_names: ["psm_lf1_joint","psm_lf2_joint"],points:[{positions: [-0.16,-0.2],time_from_start:[1,0]}]}' -1
