@@ -23,7 +23,7 @@ I'm happy to help you, but I recommend please play with it and troubleshoot the 
 
 On going work will be updated in this github page in future, so stay tuned! 
 
-Complete research article will be updated soon after publication.
+Complete research article details will be updated soon after publication.
 
 **Article title:**
 
