@@ -25,6 +25,6 @@ On going work will be updated in this github page in future, so stay tuned!
 
 Complete research article will be updated soon after publication.
 
-**Article title:**
-**doi link:**
+**Article title:**\\
+**doi link:**\\
 **citation detalis:**
