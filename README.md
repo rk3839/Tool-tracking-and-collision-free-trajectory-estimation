@@ -25,7 +25,7 @@ On going work will be updated in this github page in future, so stay tuned!
 
 Complete research article details will be updated soon after publication.
 
-**Article title:**
+**Article title:A Vision-Based Approach for Measuring Surgical Tool Angle and Distance in Robotic Precision**
 
 **doi link:**
 
