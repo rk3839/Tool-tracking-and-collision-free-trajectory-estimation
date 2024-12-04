@@ -1,4 +1,4 @@
-**Surgical tool tracking and feedback estimation and collision free trajactory estimation**
+**Surgical tool tracking and feedback estimation for collision free trajactory estimation**
 
 This research work is about estimating a fundamental feedback related to surgical tool.
 Additionally, it'll also provides collision free trajectory.
