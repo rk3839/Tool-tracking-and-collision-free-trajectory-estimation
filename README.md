@@ -13,6 +13,9 @@ You can run the python script from script folder.
 I recommed to modify the code and play with it.
 Use this command for running the python script: rosrun sr1 'python file name'.py
 
+Note: 'depth_collision.py' can be run using 'python3 depth_collision.py'. In terminal, you've to be with in the script folder,
+to run this code. It'll shows a menu to user like (collision/depth/exit). Play with it! 
+
 Warning: you may face some issues with installing and also while running the whole setup.
 If you are facing those issues, then check the ERROR and install the missing package/ library.
 Note: this work was performed in ROS-1 (noetic), so stick with ROS-1.
