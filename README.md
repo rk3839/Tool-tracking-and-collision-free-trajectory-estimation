@@ -3,7 +3,8 @@
 ## 📋 Project Description
 This research work is about estimating a fundamental feedback related to surgical tool.
 
-**➕ In-build Additional Project**<br/>
+**➕ In-build Additional Project**
+
 Additionally, it'll also provides collision free trajectory.
 Both were performed in different simulation environment.
 
@@ -33,6 +34,7 @@ You may encounter with ROS-2, like version compatability issues.
 
 ##### Citation Details
 **Complete research article details will be updated soon after publication**
-Manuscript title: *A Vision-based Approach for Precise Spatial Estimation of Surgical Tool in Robotic Surgery*
-doi link:
-citation detalis:
+
+Manuscript title: *A Vision-based Approach for Precise Spatial Estimation of Surgical Tool in Robotic Surgery*<br/>
+doi link:<br/>
+citation detalis:<br/>
