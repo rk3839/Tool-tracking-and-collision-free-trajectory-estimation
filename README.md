@@ -3,7 +3,7 @@
 ## 📋 Project Description
 This research work is about estimating a fundamental feedback related to surgical tool.
 
-**➕ In-build Additional Project**
+**➕ In-build Additional Project**<br/>
 Additionally, it'll also provides collision free trajectory.
 Both were performed in different simulation environment.
 
