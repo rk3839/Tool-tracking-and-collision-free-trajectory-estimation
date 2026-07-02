@@ -1,11 +1,12 @@
-# 🤖 Project Title: A Vision-based Approach for Precise Spatial Estimation of Surgical Tool in Robotic Surgery
+# 🤖 Project Title: 
+A Vision-based Approach for Precise Spatial Estimation of Surgical Tool in Robotic Surgery
 
 ## 📋 Project Description
 This research work is about estimating a fundamental feedback related to surgical tool.
 
 **➕ In-build Additional Project**
 
-Additionally, it'll also provides collision free trajectory.
+Additionally, it'll also provides collision free trajectory.<br\>
 Both were performed in different simulation environment.
 
 ### 📜 Project Cloning and Packages Installtion
@@ -26,7 +27,7 @@ You can run any python script from script folder.
 **Note**: `user_choice.py` can be run using `python3 user_choice.py`. In terminal, you've to be with in the script folder,
 to run this code. It'll shows a menu to user like (collision/depth/exit). Play with it! 😁🎈
 
-#### Warning
+#### ⚠️ Warning
 This is work was performed in ROS-1 (noetic).
 You may encounter with ROS-2, like version compatability issues.
 
