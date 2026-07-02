@@ -10,7 +10,9 @@ Additionally, it'll also provides collision free trajectory.<br\>
 Both were performed in different simulation environment.
 
 ## ✅ Video Output
-![video](https://github.com/user-attachments/assets/f4257bf1-7fc3-4359-80a7-a1be0828553b)
+<video src="[YOUR_UPLOADED_VIDEO_URL_HERE](https://github.com/user-attachments/assets/f4257bf1-7fc3-4359-80a7-a1be0828553b)" width="100%" controls>
+  Your browser does not support the video tag.
+</video>
 
 ### 📜 Project Cloning and Packages Installtion
 Clone this repo and import the 'sr1' file in your catkin workspace and install the packages from `requirements.txt`.
